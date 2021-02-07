@@ -3,7 +3,7 @@
 
 #Description des fichiers :
 ## Loader
-Il s'agit du script principal du jeu, disponible partout, et dont l'objet n'est pas détruit même après un changement de sècne.
+Il s'agit du script principal du jeu, disponible partout, et dont l'objet n'est pas détruit même après un changement de scène.
 Il coordonne les données principales du joueur, de la partie en cours, ou le contenu du jeu venant de la classe Database.cs qui n'est pas montrée ici.
 J'y stocke le SDK CotC si nécessaire, ainsi qu'un script Xtralife pour agir dessus, ou grâce à lui.
 
